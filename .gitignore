@@ -7,3 +7,4 @@ venv/
 # seceret json files
 credentials.json
 token.json
+allowed_senders.txt
