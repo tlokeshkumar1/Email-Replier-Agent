@@ -1,0 +1,9 @@
+# secret keys
+.env
+
+#unwanted files
+venv/
+
+# seceret json files
+credentials.json
+token.json
