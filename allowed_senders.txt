@@ -1,2 +1,1 @@
-client_mail1@gmail.com,
-client_mail2@gmail.com
+lokeshtelagamalla@gmail.com
